@@ -2,12 +2,31 @@
     text-align: center;
     font-size: 50px;
   font-family: fantasy;
-  color: bisque;
+  color: rgb(83, 216, 216);
   margin: 25px;
 }
 #homebody {
-    background-color: rgb(216, 156, 100);
+    background-color: rgba(183, 142, 196, 0.788);
 }
-#navbutton {
-    
+#homebutton {
+  width: 150px;
+  height: 75px;
+  border-radius: 100px;
+  margin-bottom: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: lucida sans;
+  background-color: rgb(95, 159, 243);
+}
+#homebutton:hover {
+  background-color: rgb(105, 222, 243); 
+  transition: 0.35s;
+}
+#aruba {
+  margin: 20px;
+  border-radius: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
