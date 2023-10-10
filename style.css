@@ -52,3 +52,16 @@
   font-weight: bold;
   text-align: center;
 }
+#hotel {
+  margin-bottom: 25px;
+  font-family: fantasy;
+  color: rgb(83, 216, 216);
+}
+#cardtext {
+  font-family: century gothic;
+}
+#cards {
+  margin-bottom: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
